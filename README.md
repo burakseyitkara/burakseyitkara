@@ -1,8 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=burakseyitkara.burakseyitkara">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hello+there+%F0%9F%91%8B;This+is+Burak+Seyit+Kara;Nice+to+meet+you)](https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hello+there+%F0%9F%91%8B;This+is+Burak+Seyit+Kara;Nice+to+meet+you!">
   </a>
 </h1>
 
@@ -91,3 +90,4 @@ Notes: If you want use this readme, firstly star it please. If you can't align y
 ![Metrics](https://metrics.lecoq.io/burakseyitkara?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
 
 -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=burakseyitkara.burakseyitkara">
